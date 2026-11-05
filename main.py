@@ -7,3 +7,5 @@ max_sales=calculate_max_sales(sales)
 print(f"Total Sales: {total_sales}")
 print(f"Average Sales: {average_sales}")
 print(f"max Sales: {max_sales}")
+
+print("Learning Git!")
